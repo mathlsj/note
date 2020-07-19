@@ -1,5 +1,7 @@
 # note
 
+一些学习和使用过程的汇总。主要包括学习笔记，源码分析和平时使用的总结。
+
 ## linux
 
 ### cpu
@@ -15,6 +17,8 @@
 ### 硬盘
 
 ## kubernetes
+
+### 基础
 
 * [k8s 架构](./kubernetes/kubernetes-arch.md)
 * [pod](./kubernetes/pod.md)
