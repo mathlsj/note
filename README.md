@@ -24,6 +24,7 @@
 * [pod](./kubernetes/pod.md)
 * [namespace](./kubernetes/namespace.md)
 * [node](./kubernetes/node.md)
+* [service](./kubernetes/service.md)
 
 ## Envoy
 

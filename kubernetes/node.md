@@ -47,3 +47,10 @@ Taints（污点） 和 tolerations （容忍）用于保证 Pod 不被调度到�
 kubectl taint nodes node1 key1=value1:NoSchedule
 ```
 
+## Node维护模式
+
+标志Node不可调度但不影响其上正在运行的Pod，这种维护Node时是非常有用的
+
+```
+kubectl cordon node1
+```
