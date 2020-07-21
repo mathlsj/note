@@ -23,6 +23,7 @@
 * [k8s 架构](./kubernetes/kubernetes-arch.md)
 * [pod](./kubernetes/pod.md)
 * [namespace](./kubernetes/namespace.md)
+* [master](./kubernetes/master.md)
 * [node](./kubernetes/node.md)
 * [service](./kubernetes/service.md)
 
