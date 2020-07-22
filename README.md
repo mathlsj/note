@@ -20,13 +20,13 @@
 
 ### 基础
 
-* [k8s 架构](./kubernetes/kubernetes-arch.md)
-* [pod](./kubernetes/pod.md)
-* [namespace](./kubernetes/namespace.md)
-* [master](./kubernetes/master.md)
-* [node](./kubernetes/node.md)
-* [service](./kubernetes/service.md)
-* [volume](./kubernetes/volume.md)
+* [k8s 架构](./kubernetes/base/kubernetes-arch.md)
+* [pod](./kubernetes/base/pod.md)
+* [namespace](./kubernetes/base/namespace.md)
+* [master](./kubernetes/base/master.md)
+* [node](./kubernetes/base/node.md)
+* [service](./kubernetes/base/service.md)
+* [volume](./kubernetes/base/volume.md)
 
 ## Envoy
 
