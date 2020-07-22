@@ -26,6 +26,7 @@
 * [master](./kubernetes/master.md)
 * [node](./kubernetes/node.md)
 * [service](./kubernetes/service.md)
+* [volume](./kubernetes/volume.md)
 
 ## Envoy
 
