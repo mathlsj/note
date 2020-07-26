@@ -29,6 +29,7 @@
 * [volume](./kubernetes/base/volume.md)
 * [pv](./kubernetes/base/pv.md)
 * [deployment](./kubernetes/base/deployment.md)
+* [secret](./kubernetes/base/secret.md)
 
 ## Envoy
 
