@@ -30,6 +30,7 @@
 * [pv](./kubernetes/base/pv.md)
 * [deployment](./kubernetes/base/deployment.md)
 * [secret](./kubernetes/base/secret.md)
+* [statefulset](./kubernetes/base/statefulset.md)
 
 ## Envoy
 
