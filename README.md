@@ -31,6 +31,7 @@
 * [deployment](./kubernetes/base/deployment.md)
 * [secret](./kubernetes/base/secret.md)
 * [statefulset](./kubernetes/base/statefulset.md)
+* [daemonset](./kubernetes/base/daemonset.md)
 
 ## Envoy
 
