@@ -32,6 +32,7 @@
 * [secret](./kubernetes/base/secret.md)
 * [statefulset](./kubernetes/base/statefulset.md)
 * [daemonset](./kubernetes/base/daemonset.md)
+* [node-selector](./kubernetes/base/node-selector.md)
 
 ## Envoy
 
