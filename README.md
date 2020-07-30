@@ -33,6 +33,7 @@
 * [statefulset](./kubernetes/base/statefulset.md)
 * [daemonset](./kubernetes/base/daemonset.md)
 * [node-selector](./kubernetes/base/node-selector.md)
+* [service-account](./kubernetes/base/service-account.md)
 
 ## Envoy
 
