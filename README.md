@@ -35,6 +35,7 @@
 * [node-selector](./kubernetes/base/node-selector.md)
 * [service-account](./kubernetes/base/service-account.md)
 * [job](./kubernetes/base/job.md)
+* [cronjob](./kubernetes/base/cronjob.md)
 
 ## Envoy
 
