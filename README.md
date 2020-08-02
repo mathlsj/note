@@ -36,6 +36,7 @@
 * [service-account](./kubernetes/base/service-account.md)
 * [job](./kubernetes/base/job.md)
 * [cronjob](./kubernetes/base/cronjob.md)
+* [resource-quota](./kubernetes/base/resource-quota.md)
 
 ## Envoy
 
