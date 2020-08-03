@@ -37,6 +37,7 @@
 * [job](./kubernetes/base/job.md)
 * [cronjob](./kubernetes/base/cronjob.md)
 * [resource-quota](./kubernetes/base/resource-quota.md)
+* [network-policy](./kubernetes/base/network-policy.md)
 
 ## Envoy
 
