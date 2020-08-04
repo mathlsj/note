@@ -38,6 +38,7 @@
 * [cronjob](./kubernetes/base/cronjob.md)
 * [resource-quota](./kubernetes/base/resource-quota.md)
 * [network-policy](./kubernetes/base/network-policy.md)
+* [configmap](./kubernetes/base/configmap.md)
 
 ## Envoy
 
@@ -50,5 +51,3 @@
 * [程序初始化](https://github.com/mathlsj/envoy-sourcecode-analysis/blob/master/envoy_initialization.md)
 * [LDS](https://github.com/mathlsj/envoy-sourcecode-analysis/blob/master/envoy_lds.md)
 * [热重启](https://github.com/mathlsj/envoy-sourcecode-analysis/blob/master/evnvoy_hot_restart.md)
-
-
