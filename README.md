@@ -39,6 +39,11 @@
 * [resource-quota](./kubernetes/base/resource-quota.md)
 * [network-policy](./kubernetes/base/network-policy.md)
 * [configmap](./kubernetes/base/configmap.md)
+* [annotation](./kubernetes/base/annotation.md)
+
+### 原理
+
+### 源码分析
 
 ## Envoy
 
