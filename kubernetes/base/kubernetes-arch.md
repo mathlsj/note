@@ -16,7 +16,7 @@ Kubernetes 提供了很多的功能，它可以简化应用程序的工作流，
 
 ## 架构
 
-![kubernetes-arch](../image/k8s-arch.jpg)
+![kubernetes-arch](../../image/k8s-arch.jpg)
 
 kubernetes 主要有以下几个核心组件组成：
 
