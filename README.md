@@ -40,6 +40,7 @@
 * [network-policy](./kubernetes/base/network-policy.md)
 * [configmap](./kubernetes/base/configmap.md)
 * [annotation](./kubernetes/base/annotation.md)
+* [crd](./kubernetes/base/crd.md)
 
 ### 原理
 
