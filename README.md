@@ -45,6 +45,7 @@
 ### 原理
 
 * [apiserver](./kubernetes/advance/apiserver.md)
+* [namespace-controller](./kubernetes/advance/namespace-controller.md)
 
 ### 源码分析
 
