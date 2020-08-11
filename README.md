@@ -47,6 +47,7 @@
 * [apiserver](./kubernetes/advance/apiserver.md)
 * [namespace-controller](./kubernetes/advance/namespace-controller.md)
 * [node-controller](./kubernetes/advance/node-controller.md)
+* [replication-controller](./kubernetes/advance/replication-controller.md)
 
 ### 源码分析
 
