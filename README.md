@@ -48,6 +48,7 @@
 * [namespace-controller](./kubernetes/advance/namespace-controller.md)
 * [node-controller](./kubernetes/advance/node-controller.md)
 * [replication-controller](./kubernetes/advance/replication-controller.md)
+* [resource-quota-controller](./kubernetes/advance/resource-qouta-controller.md)
 
 ### 源码分析
 
