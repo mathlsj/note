@@ -16,6 +16,8 @@
 
 ### 硬盘
 
+## 架构设计
+
 ## kubernetes
 
 ### 基础
@@ -50,6 +52,7 @@
 * [replication-controller](./kubernetes/advance/replication-controller.md)
 * [resource-quota-controller](./kubernetes/advance/resource-qouta-controller.md)
 * [scheduler](./kubernetes/advance/scheduler.md)
+* [kube-proxy](./kubernetes/advance/kube-proxy.md)
 
 ### 源码分析
 
