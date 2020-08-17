@@ -18,6 +18,8 @@
 
 ## 架构设计
 
+* [容量设计](./architecture/capacity.md)
+
 ## kubernetes
 
 ### 基础
