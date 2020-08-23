@@ -25,6 +25,7 @@
 * [容量设计](./architecture/capacity.md)
 * [百万流量架构设计](./architecture/traffic.md)
 * [为什么需要服务化](./architecture/micro-service-soltion.md)
+* [微服务拆分粒度](./architecture/micro-service-resolution.md)
 
 ## kubernetes
 
