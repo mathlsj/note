@@ -27,6 +27,7 @@
 * [为什么需要服务化](./architecture/micro-service-soltion.md)
 * [微服务拆分粒度](./architecture/micro-service-resolution.md)
 * [微服务高可用](./architecture/micro-service-ha.md)
+* [微服务高并发](./architecture/micro-service-high.md)
 
 ## kubernetes
 
