@@ -28,6 +28,7 @@
 * [微服务拆分粒度](./architecture/micro-service-resolution.md)
 * [微服务高可用](./architecture/micro-service-ha.md)
 * [微服务高并发](./architecture/micro-service-high.md)
+* [微服务负载](./architecture/micro-service-balance.md)
 
 ## kubernetes
 
