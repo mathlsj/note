@@ -31,6 +31,7 @@
 * [微服务负载](./architecture/micro-service-balance.md)
 * [微服务连接池](./architecture/micro-service-pool.md)
 * [数据库垂直拆分与高可用](./architecture/db-ha.md)
+* [数据库读性能](./architecture/db-read-extend.md)
 
 ## kubernetes
 
