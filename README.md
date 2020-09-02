@@ -30,6 +30,7 @@
 * [微服务高并发](./architecture/micro-service-high.md)
 * [微服务负载](./architecture/micro-service-balance.md)
 * [微服务连接池](./architecture/micro-service-pool.md)
+* [数据库主从一致性](./architecture/db-consistency.md)
 * [数据库垂直拆分与高可用](./architecture/db-ha.md)
 * [数据库读性能](./architecture/db-read-extend.md)
 
