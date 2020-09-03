@@ -33,6 +33,7 @@
 * [数据库主从一致性](./architecture/db-consistency.md)
 * [数据库垂直拆分与高可用](./architecture/db-ha.md)
 * [数据库读性能](./architecture/db-read-extend.md)
+* [数据库扩展性](./architecture/db-extend.md)
 
 ## kubernetes
 
