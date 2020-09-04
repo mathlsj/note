@@ -34,6 +34,7 @@
 * [数据库垂直拆分与高可用](./architecture/db-ha.md)
 * [数据库读性能](./architecture/db-read-extend.md)
 * [数据库扩展性](./architecture/db-extend.md)
+* [进程内缓存](./architecture/cache-in-process.md)
 
 ## kubernetes
 
