@@ -35,6 +35,7 @@
 * [数据库读性能](./architecture/db-read-extend.md)
 * [数据库扩展性](./architecture/db-extend.md)
 * [进程内缓存](./architecture/cache-in-process.md)
+* [缓存误用](./architecture/cache.md)
 
 ## kubernetes
 
