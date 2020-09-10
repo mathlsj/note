@@ -38,6 +38,7 @@
 * [缓存误用](./architecture/cache.md)
 * [缓存最佳实践](./architecture/cache1.md)
 * [缓存一致性](./architecture/cache2.md)
+* [缓存选 redis 还是 memcache](./architecture/cache4.md)
 
 ## kubernetes
 
