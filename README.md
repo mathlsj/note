@@ -76,6 +76,7 @@
 * [resource-quota-controller](./kubernetes/advance/resource-qouta-controller.md)
 * [scheduler](./kubernetes/advance/scheduler.md)
 * [kube-proxy](./kubernetes/advance/kube-proxy.md)
+* [apiserver 认证管理](./kubernetes/advance/apiserver-ca-manager.md)
 
 ### 源码分析
 
