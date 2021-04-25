@@ -67,6 +67,7 @@
 * [configmap](./kubernetes/base/configmap.md)
 * [annotation](./kubernetes/base/annotation.md)
 * [crd](./kubernetes/base/crd.md)
+* [gpu](./kubernetes/base/k8s-gpu.md)
 
 ### 原理
 
@@ -78,6 +79,7 @@
 * [scheduler](./kubernetes/advance/scheduler.md)
 * [kube-proxy](./kubernetes/advance/kube-proxy.md)
 * [apiserver 认证管理](./kubernetes/advance/apiserver-ca-manager.md)
+
 
 ### 源码分析
 
